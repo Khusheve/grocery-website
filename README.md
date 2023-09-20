@@ -1,2 +1,2 @@
 ## grocery-website
-#a grocery website made using html,css,javascript
+#a grocery website made using html,css,javascript.
